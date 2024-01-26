@@ -1,0 +1,11 @@
+{
+  "name": "galglm-server",
+  "version": "0.0.0",
+  "description": "galglm-server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Vinlic",
+  "license": "ISC"
+}
